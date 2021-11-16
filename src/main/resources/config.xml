@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <className>com.feyl.work.behavioralpatterns.command.TextAddCommand</className>
+</config>
+
+<!--
+factory：
+    com.feyl.work.creationalpatterns.factory.PrinterImplaFactory
+    com.feyl.work.creationalpatterns.factory.PrinterImplbFactory
+
+abstract factory:
+    com.feyl.work.creationalpatterns.abstractfactory.BreadFactory
+    com.feyl.work.creationalpatterns.abstractfactory.MilkFactory
+    com.feyl.work.creationalpatterns.abstractfactory.MeatFactory
+
+builder:
+    com.feyl.work.creationalpatterns.builder.Jack
+    com.feyl.work.creationalpatterns.builder.Lee
+
+adapter:
+    com.feyl.work.structuralpatterns.adapter.cls.PrintAdapter
+    com.feyl.work.structuralpatterns.adapter.obj.PrintAdapter
+
+facade:
+    com.feyl.work.structuralpatterns.facade.DataReportGenerator
+    com.feyl.work.structuralpatterns.facade.NewDataReportGenerator
+
+proxy:
+    com.feyl.work.structuralpatterns.proxy.ProxyFileSystem
+
+command:
+    com.feyl.work.behavioralpatterns.command.TextAddCommand
+    com.feyl.work.behavioralpatterns.command.TextDeleteCommand
+    com.feyl.work.behavioralpatterns.command.FontChangeCommand
+
+-->
